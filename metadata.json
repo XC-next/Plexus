@@ -1,0 +1,7 @@
+{
+  "name": "Plexus",
+  "description": "A sleek, dark-themed media server dashboard clone featuring AI-powered recommendations and content discovery.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
